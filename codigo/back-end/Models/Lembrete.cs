@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using SistemaDeLembretes.Validations;
 
 namespace SistemaDeLembretes.Models
 {
@@ -11,6 +12,8 @@ namespace SistemaDeLembretes.Models
         public string Nome { get; set; }
 
         [DataType(DataType.Date, ErrorMessage = "Data invalida"), Required(ErrorMessage = "A data do lembrete é obrigatória.")]
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
+        [DateNotInPast]
         public DateTime Data { get; set; }
 
     }
