@@ -5290,11 +5290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\sistema-de-lembretes\\sistema-de-lembretes.csproj",
+      "projectUniqueName": "C:\\sistema-de-lembretes\\codigo\\back-end\\sistema-de-lembretes.csproj",
       "projectName": "sistema-de-lembretes",
-      "projectPath": "C:\\sistema-de-lembretes\\sistema-de-lembretes.csproj",
+      "projectPath": "C:\\sistema-de-lembretes\\codigo\\back-end\\sistema-de-lembretes.csproj",
       "packagesPath": "C:\\Users\\duda\\.nuget\\packages\\",
-      "outputPath": "C:\\sistema-de-lembretes\\obj\\",
+      "outputPath": "C:\\sistema-de-lembretes\\codigo\\back-end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duda\\AppData\\Roaming\\NuGet\\NuGet.Config"

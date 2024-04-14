@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sistema-de-lembretes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e0fb332cc7d58820779f4cd2f634d683ab428ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4619e9135d17609bf8c0d44bb906db9475a5b33c")]
 [assembly: System.Reflection.AssemblyProductAttribute("sistema-de-lembretes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sistema-de-lembretes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

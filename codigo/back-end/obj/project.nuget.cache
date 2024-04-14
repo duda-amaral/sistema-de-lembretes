@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpQOn+vMtAPdIXPlw4Pxg3vcw+au7+hgdYXo8Vn5Oi/xBOh+B20kRzxhjukKsnikCMitCti7RtpnD6tWXmOVJg==",
+  "dgSpecHash": "2r44s9/NJKS+eAHktpF+BeS30PgWw8M9evHG2H4GnfWXIqphlY8mKRohzmYcCNh3euTaorEMrNoh98/eYR9DWA==",
   "success": true,
-  "projectFilePath": "C:\\sistema-de-lembretes\\sistema-de-lembretes.csproj",
+  "projectFilePath": "C:\\sistema-de-lembretes\\codigo\\back-end\\sistema-de-lembretes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duda\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\duda\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
