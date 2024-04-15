@@ -2,6 +2,18 @@
 <br>
 <br>
 
+# 📝 Sistema de lembretes
+
+O Gerenciador de Lembretes é uma aplicação web desenvolvida para organizar tarefas e compromissos diários de forma eficiente e intuitiva. O sistema permite a visualização e gerenciemento  de lembretes de maneira conveniente.
+
+### Funcionalidades Principais
+
+**Adicionar Lembretes:** Os usuários podem facilmente adicionar novos lembretes, especificando um nome e data para cada um.
+
+**Visualizar Lembretes:** Os lembretes são exibidos de forma clara e organizada, agrupados por data, facilitando a visualização e acompanhamento das tarefas programadas.
+
+**Excluir Lembretes:** Os usuários têm a opção de excluir lembretes que não são mais necessários, mantendo a lista de lembretes atualizada e organizada.
+
 ## 🚀 Tecnologias
 
 - Frontend:
@@ -46,6 +58,7 @@ A aplicação vai estar rodando em <http://localhost:5173/>.
 
 - Passo 4.1: acesse a pasta clonada no **Passo 01** pelo CMD: `cd sistema-de-lembretes`;
 - Passo 4.2: acesse a pasta back-end pelo CMD: `cd codigo/back-end`;
-- Passo 4.3: iniciar aplicação frontend: `dotnet run`
+- Passo 4.3: será necessário modificar o usuário e senha do banco de dados nos arquivos `ContextoDB.cs` e `appsettings.json`; 
+- Passo 4.4: iniciar aplicação frontend: `dotnet run`
 
 A aplicação vai estar rodando em <http://localhost:5103/>.
