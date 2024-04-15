@@ -44,11 +44,6 @@ app.UseSwaggerUI(c =>
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "SistemaDeLembretes API v1");
 });
 
-/*
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");*/
-
     app.MapControllerRoute(
     name: "lembrete",
     pattern: "api/[controller]/{action}/{id?}",

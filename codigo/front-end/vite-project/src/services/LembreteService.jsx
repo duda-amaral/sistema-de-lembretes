@@ -1,12 +1,12 @@
 export const fetchLembretes = async () => {
-    return fetch("http://localhost:5000/api/Lembrete", {
+    return fetch("http://localhost:5103/api/Lembrete", {
       method: 'GET',
       headers: { 'Content-Type': 'application/json' }
     }).then(response => response.json());
   }
   
   export const deleteLembrete = async (id) => {
-    return fetch(`http://localhost:5000/api/Lembrete/${id}`, {
+    return fetch(`http://localhost:5103/api/Lembrete/${id}`, {
       method: 'DELETE',
       headers: { 'Content-Type': 'application/json' }
     }).then(response => {
@@ -16,7 +16,7 @@ export const fetchLembretes = async () => {
   }
 
   export const addLembrete = async (novoLembrete) => {
-    return fetch("http://localhost:5000/api/Lembrete", {
+    return fetch("http://localhost:5103/api/Lembrete", {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(novoLembrete)
