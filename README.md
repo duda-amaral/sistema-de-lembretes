@@ -1,6 +1,3 @@
-<hr>
-<br>
-<br>
 
 # 📝 Sistema de lembretes
 
